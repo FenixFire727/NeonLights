@@ -1,0 +1,19 @@
+This is a log of everything that changed, or was added, for every version update of "Neon Lights."
+Every version of "Neon Lights" is stored in the "Neon Lights Version Archive" on the author's personal machine.
+Every executable JAR file of "Neon Lights" is stored in the "Neon Lights JAR Archive" on the author's personal machine.
+All original files created and stored by the mod author, FenixFire727 (GitHub account holder).
+__________________________________________________________________________________________________
+
+v1.0 (Feb.15,2022)
+	- Neon Lights is created. Contains 6 basic neon light blocks.
+
+v1.1 (Feb.18,2022)
+	- Added crafting recipes.
+			(4x glowstone dust <corners>, 4x glass panes <sides>, 1x dye <center>)
+	- Fixed the texture for the green neon light block.
+	- Gave the neon lights a strength property.
+	- Gave the neon lights 'pickaxe' tool tags. This makes them mine more quickly using a pickaxe.
+			(Blocks can me mined with any tool, or bare-handed, and still drop the block item.)
+	- Created a logo.
+	- License updated.
+	- ReadMe file added.

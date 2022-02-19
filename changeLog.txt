@@ -17,3 +17,10 @@ v1.1 (Feb.18,2022)
 	- Created a logo.
 	- License updated.
 	- ReadMe file added.
+	- Updated Mod description.
+	- Updated Mod URL.
+	
+v1.2 (Feb.19,2022)
+	- Changed block textures' colors to match the official minecraft color pallet.
+	- Added more neon light blocks, one for each vanilla dye color, as well as their recipes.
+	- There are now 16 neon light blocks!

@@ -24,3 +24,6 @@ v1.2 (Feb.19,2022)
 	- Changed block textures' colors to match the official minecraft color pallet.
 	- Added more neon light blocks, one for each vanilla dye color, as well as their recipes.
 	- There are now 16 neon light blocks!
+	
+v1.3 (Feb.19,2022)
+	- Changed block textures to be more slightly more detailed, and aestheticly pleasing.

@@ -26,4 +26,4 @@ v1.2 (Feb.19,2022)
 	- There are now 16 neon light blocks!
 	
 v1.3 (Feb.19,2022)
-	- Changed block textures to be more slightly more detailed, and aestheticly pleasing.
+	- Changed block textures to be slightly more detailed, and aestheticly pleasing.

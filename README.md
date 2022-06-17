@@ -1,5 +1,5 @@
-# NeonLights-1.18.x
-Repository of all executable files for NeonLights-1.18.x
+# NeonLights
+Repository of all executable files for NeonLights
 
 "Neon Lights" is a mod that adds several differently colored light source blocks into Minecraft! They're neon lights!
 For best results, it is recommended that you pair the mod with a shader-pack, such as SEUS-Renewed-v1.0.1.

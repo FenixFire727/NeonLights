@@ -27,3 +27,7 @@ v1.2 (Feb.19,2022)
 	
 v1.3 (Feb.19,2022)
 	- Changed block textures to be slightly more detailed, and aestheticly pleasing.
+
+v1.4 (June.16,2022)
+	- Updated to Minecraft version 1.19
+	- Changed Logo
